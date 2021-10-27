@@ -16,8 +16,8 @@
     grid-template-columns: 1fr;
     grid-template-rows: 1.2fr 1fr 1.2fr .4fr;
     justify-items: center;
-    font-family: 'Varela Round', sans-serif;
-}
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
 
 .background {
     position: absolute;
